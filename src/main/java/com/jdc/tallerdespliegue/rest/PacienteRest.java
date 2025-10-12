@@ -14,7 +14,7 @@ public class PacienteRest {
 
     private final PacienteService pacienteService;
 
-    @GetMapping
+    @GetMapping("/listar")
     public List<Paciente> listar() {
         return pacienteService.listar();
     }
