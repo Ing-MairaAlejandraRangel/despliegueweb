@@ -1,10 +1,11 @@
 package com.jdc.tallerdespliegue.rest;
 
 import com.jdc.tallerdespliegue.entity.Agenda;
-import com.jdc.tallerdespliegue.service.implement.AgendaService;
+import com.jdc.tallerdespliegue.service.implemets.AgendaService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
+
 import java.util.List;
 
 @RestController
