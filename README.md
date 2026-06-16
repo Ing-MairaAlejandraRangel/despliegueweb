@@ -21,6 +21,19 @@ La aplicación permite gestionar usuarios, pacientes, médicos, categorías méd
 
 ---
 
+## ✨ Características principales
+
+* API REST desarrollada con Spring Boot.
+* Persistencia de datos en PostgreSQL mediante Spring Data JPA.
+* Arquitectura multicapa (Entity, Repository, Service y REST Controller).
+* Gestión de usuarios, pacientes, médicos, citas y agendas.
+* Relaciones entre entidades utilizando JPA e Hibernate.
+* Contenerización de la aplicación mediante Docker.
+* Proyecto orientado a prácticas de despliegue y desarrollo Backend.
+
+---
+
+
 # 🚀 Tecnologías utilizadas
 
 | Tecnología      | Versión |
@@ -420,10 +433,39 @@ http://localhost:8090
 
 ---
 
+# ✅ Estado del proyecto
+
+Proyecto funcional y desarrollado con fines académicos y de portafolio profesional.
+
+Incluye:
+
+* ✔ API REST con Spring Boot
+* ✔ Persistencia en PostgreSQL
+* ✔ Arquitectura multicapa
+* ✔ Gestión de usuarios, pacientes, médicos, citas y agendas
+* ✔ Relaciones entre entidades con JPA/Hibernate
+* ✔ Contenerización mediante Docker
+
+
+---
+
 # 👩‍💻 Autora
 
 **Maira Alejandra Rangel Murillo**
+**Ingeniera de Sistemas**
 
-Ingeniera de Sistemas
+Apasionada por el desarrollo de software y la creación de soluciones tecnológicas orientadas a la automatización, la gestión de datos y el desarrollo de aplicaciones web y móviles.
+
+**Áreas de interés:**
+
+* 💻 Desarrollo Full Stack
+* ☕ Desarrollo Backend con Java y Spring Boot
+* 🌐 Desarrollo Web con JavaScript y Node.js
+* 📱 Desarrollo de aplicaciones Android
+* 🗄️ Bases de Datos SQL (PostgreSQL y MySQL)
+* 🔗 Diseño e implementación de APIs REST
+* 🧪 Aseguramiento de la calidad (QA) y pruebas de software
+
+Este proyecto fue desarrollado con fines académicos y forma parte de mi portafolio profesional como Ingeniera de Sistemas.
 
 Proyecto académico desarrollado para la asignatura de Despliegue Web utilizando Spring Boot, PostgreSQL y Docker.
